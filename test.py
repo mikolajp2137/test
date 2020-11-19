@@ -14,3 +14,4 @@ print(greet('jarek'))
 print(sys.version)
 r = requests.get('https://google.com')
 print(r.status_code)
+a = 1
